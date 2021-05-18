@@ -4,10 +4,11 @@
 
 ```bash
 npm install -g yo
-npm install -g generator-cra-template
+npm install -g generator-generator
+npm install generator-cra-template
 ```
 
-Then generate your new project:
+Create your new project, and then execute:
 
 ```bash
 yo cra-template
